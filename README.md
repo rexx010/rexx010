@@ -7,7 +7,7 @@ I build scalable systems using Go, Java, Python and JavaScript.
 ## 🔥 Coding Mood
 
 <p align="center">
-  <img src="[https://pin.it/3cW8Hq9FH](https://search.brave.com/images?q=computer+gif&context=W3sic3JjIjoiaHR0cHM6Ly9tZWRpYTMuZ2lwaHkuY29tL21lZGlhL3YxLlkybGtQVGM1TUdJM05qRXhOV1oyZVRadllXZHlhM2RvY0cxcWJIYzRlR2h3TlRGaVozbzViMjk2TUdSdE1EbGtiRzFxZENabGNEMTJNVjluYVdaelgzTmxZWEpqYUNaamREMW4vT3hDVklrTXBkVlpkVjdyU0xsLzIwMC5naWYiLCJ0ZXh0IjoiQ29tcHV0ZXIgV29ya2luZyBHSUYgYnkgQUlOIEdMT0JBTCBJTVBPUlRBw4fDg08gRSBFWFBPUlRBw4fDg08gTFREQSIsInBhZ2VfdXJsIjoiaHR0cHM6Ly9naXBoeS5jb20vZXhwbG9yZS9jb21wdXRlci13b3JrIn1d&sig=5a95b4c08c8591bea4ecb6e13924d675c447ce943b497697c3d36e36cc458666&nonce=50e75c2cf9ecbf55d2f6508693a2b8be&source=imageCluster)" width="500">
+  <img src="https://pin.it/5e57IjnTJ" width="500">
 </p>
 
 ## Tech Stack
