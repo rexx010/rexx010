@@ -7,7 +7,7 @@ I build scalable systems using Go, Java, Python and JavaScript.
 ## 🔥 Coding Mood
 
 <p align="center">
-  <img src="https://pin.it/5e57IjnTJ" width="500">
+  <img src="https://pin.it/3cW8Hq9FH" width="500">
 </p>
 
 ## Tech Stack
